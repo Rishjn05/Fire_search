@@ -1,0 +1,41 @@
+{
+  "dataset_d8_peft_extended": {
+    "overall_success_rate": 100.0,
+    "per_sim": {
+      "sim_001": 100.0,
+      "sim_002": 100.0,
+      "sim_003": 100.0,
+      "sim_004": 100.0,
+      "sim_005": 100.0,
+      "sim_006": 100.0,
+      "sim_007": 100.0,
+      "sim_008": 100.0,
+      "sim_009": 100.0,
+      "sim_010": 100.0
+    }
+  },
+  "dataset_peft_d9": {
+    "overall_success_rate": 100.0,
+    "per_sim": {
+      "sim_001": 100.0,
+      "sim_002": 100.0,
+      "sim_003": 100.0,
+      "sim_004": 100.0,
+      "sim_005": 100.0,
+      "sim_006": 100.0,
+      "sim_007": 100.0
+    }
+  },
+  "dataset_d10": {
+    "overall_success_rate": 100.0,
+    "per_sim": {
+      "sim_001": 100.0
+    }
+  },
+  "dataset_d13": {
+    "overall_success_rate": 0.0,
+    "per_sim": {
+      "sim_001": 0.0
+    }
+  }
+}

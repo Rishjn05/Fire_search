@@ -1,0 +1,37 @@
+{
+  "num_simulations": 1,
+  "simulations": [
+    {
+      "id": "sim_001",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 13\\drawing13_drawing_table_400",
+      "fire_location_grid": [
+        42,
+        42
+      ],
+      "fire_location_world": [
+        10.8,
+        8.4
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 29.904,
+        "max": 203.91,
+        "mean": 46.02608080742519
+      }
+    }
+  ],
+  "building_bounds": {
+    "x_min": 2.4,
+    "x_max": 12.0,
+    "y_min": 0.0,
+    "y_max": 14.0
+  },
+  "grid_shape": [
+    71,
+    49
+  ],
+  "has_visibility": false,
+  "temp_dir": "temp_slices_2d_processed",
+  "vis_dir": "visibility_slices_2d_processed"
+}

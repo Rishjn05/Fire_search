@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Training checkpoints
+checkpoints*/
+*.pt
+*.pth
+*.ckpt
+
+# Compressed files
+*.zip
+
+# Generated visualizations
+gifs/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db

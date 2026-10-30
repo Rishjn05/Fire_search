@@ -1,0 +1,163 @@
+{
+  "num_simulations": 7,
+  "simulations": [
+    {
+      "id": "sim_001",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_frontroom_woodenpanel_400",
+      "fire_location_grid": [
+        66,
+        11
+      ],
+      "fire_location_world": [
+        2.2,
+        13.2
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 122.75,
+        "mean": 37.260545557441986
+      }
+    },
+    {
+      "id": "sim_002",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_hall_table_800",
+      "fire_location_grid": [
+        46,
+        11
+      ],
+      "fire_location_world": [
+        2.2,
+        9.2
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 332.42,
+        "mean": 51.09045429275275
+      }
+    },
+    {
+      "id": "sim_003",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_kitchen_2000",
+      "fire_location_grid": [
+        52,
+        33
+      ],
+      "fire_location_world": [
+        6.6,
+        10.4
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 729.6,
+        "mean": 77.44220038117113
+      }
+    },
+    {
+      "id": "sim_004",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_leftbackroom_bed_500",
+      "fire_location_grid": [
+        8,
+        11
+      ],
+      "fire_location_world": [
+        2.2,
+        1.6
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 303.02,
+        "mean": 45.71409007456973
+      }
+    },
+    {
+      "id": "sim_005",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_leftbackroom_cupboard_750",
+      "fire_location_grid": [
+        12,
+        18
+      ],
+      "fire_location_world": [
+        3.6,
+        2.4
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 464.75,
+        "mean": 55.34498093312028
+      }
+    },
+    {
+      "id": "sim_006",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_readingroom_panel_600",
+      "fire_location_grid": [
+        22,
+        35
+      ],
+      "fire_location_world": [
+        7.0,
+        4.4
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 419.42,
+        "mean": 49.93251955790806
+      }
+    },
+    {
+      "id": "sim_007",
+      "source_dir": "H:\\Samarthya Goyal MTP 2020\\PyroSim\\Drawing 9\\drawing9_rightroom_panel_900",
+      "fire_location_grid": [
+        15,
+        43
+      ],
+      "fire_location_world": [
+        8.6,
+        3.0
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 502.81,
+        "mean": 61.12736111388528
+      }
+    }
+  ],
+  "building_bounds": {
+    "x_min": 0.0,
+    "x_max": 10.0,
+    "y_min": 0.0,
+    "y_max": 15.0
+  },
+  "grid_shape": [
+    76,
+    51
+  ],
+  "has_visibility": false,
+  "temp_dir": "temp_slices_2d_processed",
+  "vis_dir": "visibility_slices_2d_processed",
+  "train_split": [
+    "sim_001",
+    "sim_002",
+    "sim_003",
+    "sim_004"
+    
+  ],
+  "test_split": [
+    "sim_005",
+    "sim_006",
+    "sim_007"
+  ]
+}

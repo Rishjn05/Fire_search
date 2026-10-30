@@ -1,0 +1,362 @@
+{
+  "num_simulations": 15,
+  "simulations": [
+    {
+      "id": "sim_001",
+      "source_dir": "H:\\Drawing 7\\drawing7_back_cupboard_750",
+      "fire_location_grid": [
+        28,
+        68
+      ],
+      "fire_location_world": [
+        13.8,
+        5.6
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.986,
+        "max": 401.01,
+        "mean": 42.587889326192546
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 4.012081532444887
+      }
+    },
+    {
+      "id": "sim_002",
+      "source_dir": "H:\\Drawing 7\\drawing7_commontoilet_600",
+      "fire_location_grid": [
+        7,
+        45
+      ],
+      "fire_location_world": [
+        9.2,
+        1.4
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.987,
+        "max": 580.74,
+        "mean": 74.64724538547765
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.4407768560219207
+      }
+    },
+    {
+      "id": "sim_003",
+      "source_dir": "H:\\Drawing 7\\drawing7_commontoilet1_2000",
+      "fire_location_grid": [
+        18,
+        10
+      ],
+      "fire_location_world": [
+        2.2,
+        3.6
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 711.65,
+        "mean": 109.49424264541037
+      }
+    },
+    {
+      "id": "sim_004",
+      "source_dir": "H:\\Drawing 7\\drawing7_drawingroom_750",
+      "fire_location_grid": [
+        31,
+        19
+      ],
+      "fire_location_world": [
+        4.0,
+        6.2
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 609.84,
+        "mean": 83.5112657242496
+      }
+    },
+    {
+      "id": "sim_005",
+      "source_dir": "H:\\Drawing 7\\drawing7_drawingroom_sofa_750",
+      "fire_location_grid": [
+        32,
+        9
+      ],
+      "fire_location_world": [
+        2.0,
+        6.4
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.998,
+        "max": 641.26,
+        "mean": 76.1079611034998
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.5989477900112095
+      }
+    },
+    {
+      "id": "sim_006",
+      "source_dir": "H:\\Drawing 7\\drawing7_hall_table_500",
+      "fire_location_grid": [
+        24,
+        35
+      ],
+      "fire_location_world": [
+        7.2,
+        4.8
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 30.0,
+        "max": 306.87,
+        "mean": 61.15447923776311
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.94274618071989
+      }
+    },
+    {
+      "id": "sim_007",
+      "source_dir": "H:\\Drawing 7\\drawing7_hallcorner_750",
+      "fire_location_grid": [
+        33,
+        31
+      ],
+      "fire_location_world": [
+        6.4,
+        6.6
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 30.0,
+        "max": 626.15,
+        "mean": 78.33852575663221
+      }
+    },
+    {
+      "id": "sim_008",
+      "source_dir": "H:\\Drawing 7\\drawing7_kitchen_2000",
+      "fire_location_grid": [
+        8,
+        25
+      ],
+      "fire_location_world": [
+        5.2,
+        1.6
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.99,
+        "max": 763.55,
+        "mean": 136.38284178602564
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 0.8317976558724623
+      }
+    },
+    {
+      "id": "sim_009",
+      "source_dir": "H:\\Drawing 7\\drawing7_kitchennew_750",
+      "fire_location_grid": [
+        7,
+        32
+      ],
+      "fire_location_world": [
+        6.6,
+        1.4
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 29.995,
+        "max": 239.93,
+        "mean": 47.417133092539544
+      }
+    },
+    {
+      "id": "sim_010",
+      "source_dir": "H:\\Drawing 7\\drawing7_leftroom_bed_1000",
+      "fire_location_grid": [
+        32,
+        55
+      ],
+      "fire_location_world": [
+        11.2,
+        6.4
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.999,
+        "max": 676.7,
+        "mean": 95.22761191929256
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.4376362187071863
+      }
+    },
+    {
+      "id": "sim_011",
+      "source_dir": "H:\\Drawing 7\\drawing7_leftroom_panel_500",
+      "fire_location_grid": [
+        34,
+        48
+      ],
+      "fire_location_world": [
+        9.8,
+        6.8
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 30.0,
+        "max": 401.37,
+        "mean": 62.35657385726741
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.8035664634450117
+      }
+    },
+    {
+      "id": "sim_012",
+      "source_dir": "H:\\Drawing 7\\drawing7_leftroom_tv_800",
+      "fire_location_grid": [
+        23,
+        52
+      ],
+      "fire_location_world": [
+        10.6,
+        4.6
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 29.99,
+        "max": 515.87,
+        "mean": 72.3812108108108
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.70882443766347
+      }
+    },
+    {
+      "id": "sim_013",
+      "source_dir": "H:\\Drawing 7\\drawing7_rightroom__800_",
+      "fire_location_grid": [
+        16,
+        60
+      ],
+      "fire_location_world": [
+        12.2,
+        3.2
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 29.997,
+        "max": 623.48,
+        "mean": 97.4350506040603
+      }
+    },
+    {
+      "id": "sim_014",
+      "source_dir": "H:\\Drawing 7\\drawing7_rightroom__800_2",
+      "fire_location_grid": [
+        11,
+        54
+      ],
+      "fire_location_world": [
+        11.0,
+        2.2
+      ],
+      "num_frames": 31,
+      "has_visibility": false,
+      "temperature": {
+        "min": 29.994,
+        "max": 561.86,
+        "mean": 98.88813981815917
+      }
+    },
+    {
+      "id": "sim_015",
+      "source_dir": "H:\\Drawing 7\\drawing7_rightroom_bed_500",
+      "fire_location_grid": [
+        7,
+        60
+      ],
+      "fire_location_world": [
+        12.2,
+        1.4
+      ],
+      "num_frames": 31,
+      "has_visibility": true,
+      "temperature": {
+        "min": 30.0,
+        "max": 484.18,
+        "mean": 71.45988398306142
+      },
+      "visibility": {
+        "min": 0.0,
+        "max": 30.0,
+        "mean": 1.9417312903225805
+      }
+    }
+  ],
+  "train_split": [
+    "sim_002",
+    "sim_003",
+    "sim_004",
+    "sim_006",
+    "sim_009",
+    "sim_012",
+    "sim_013"
+  ],
+  "test_split": [
+    "sim_007",
+    "sim_011",
+    "sim_014"
+  ],
+  "building_bounds": {
+    "x_min": 0.2,
+    "x_max": 14.0,
+    "y_min": 0.0,
+    "y_max": 7.2
+  },
+  "grid_shape": [
+    37,
+    70
+  ],
+  "has_visibility": true,
+  "temp_dir": "temp_slices_2d_processed",
+  "vis_dir": "visibility_slices_2d_processed"
+}
